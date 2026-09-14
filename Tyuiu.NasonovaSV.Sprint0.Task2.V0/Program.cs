@@ -14,6 +14,7 @@ namespace Tyuiu.NasonovaSV.Sprint0.Task2.V0
         {
             Console.WriteLine(DataService.GetMessage("Света"));
             Console.ReadKey();
+
         }
     }
 }
